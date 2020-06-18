@@ -1,6 +1,6 @@
 # ImplementStrStr-Leetcode-28
 
-Leetcode Question 2 (Easy)
+Leetcode Question 28 (Easy)
 
 Techniques Used in Question:
 Substring-Manipulation
