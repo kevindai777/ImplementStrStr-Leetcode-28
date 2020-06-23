@@ -8,6 +8,7 @@ let needle = 'll'
 
 //O(n) solution that iterates over the haystack to find the needle.
 
+//If the needle doesn't exist, return 0
 if ((!haystack && !needle) || (haystack && !needle)) {
     return 0
 }
