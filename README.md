@@ -3,6 +3,6 @@
 Leetcode Question 28 (Easy)
 
 Techniques Used in Question:
-Substring-Manipulation
+String-Manipulation
 
 [Link to Question](https://leetcode.com/problems/implement-strstr/)
